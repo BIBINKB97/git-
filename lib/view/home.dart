@@ -7,10 +7,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Learn git'),
+        title: Text('Learn GIT'),
         centerTitle:  true,
       ),
-      body: Container(),
+      body: SizedBox(),
     );
   }
 }
