@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('hellow git '),
+        title: Text('learn git  '),
         centerTitle:  true,
       ),
       body: Container(),
