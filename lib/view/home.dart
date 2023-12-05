@@ -7,10 +7,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Git'),
+        title: Text('Learn git'),
         centerTitle:  true,
       ),
-      body: ListView.builder(itemBuilder: ),
+      body: Container(),
     );
   }
 }
